@@ -1,3 +1,5 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A81WYAK)
+
 # ehm_roster_tools
 Notebooks and tools for scraping sites for EHM rosters and facepics.
 
